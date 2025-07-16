@@ -9,7 +9,9 @@
             // בדיקות של כל שאלה
             //Question1.RunTest();
             //Question2.RunTest();
-            Question3.RunTest();
+            //Question3.RunTest();
+            //Question4.RunTest();
+            Question5.RunTest();
 
             Console.WriteLine("Spring 2025 A Tests Completed.\n");
         }
