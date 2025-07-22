@@ -14,7 +14,9 @@
             //Question4.RunTest();
             //Question5.RunTest();
             //Question6.RunTest();
-            Question7.RunTest();
+            //Question7.RunTest();
+            //Question8.RunTest();
+            Question9.RunTest();
 
             Console.WriteLine();
             Console.WriteLine("Spring 2025 A Tests Completed.\n");
