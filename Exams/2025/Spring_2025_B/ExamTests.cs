@@ -10,9 +10,9 @@ namespace Mahat_DS_OOP_PracticeLab.Exams._2025.Spring_2025_B
 
             // בדיקות של כל שאלה
             //Question1.RunTest();
-            Question2.RunTest();
+            //Question2.RunTest();
             //Question3.RunTest();
-            //Question4.RunTest();
+            Question4.RunTest();
             //Question5.RunTest();
             //Question6.RunTest();
             //Question7.RunTest();
